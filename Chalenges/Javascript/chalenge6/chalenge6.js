@@ -14,4 +14,4 @@ const uniqueWord = (string) => {
 }
 
 
-console.log(uniqueWord("Eu te amo, Fernando!"))
+console.log(uniqueWord("Eu te amo, Augusto!"))

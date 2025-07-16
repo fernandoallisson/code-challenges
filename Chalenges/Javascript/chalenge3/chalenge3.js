@@ -18,4 +18,6 @@ const secMaxNumber = (array) => {
   return secMaxNumber;
 }
 
+const list = [1, 2, 3, 5, 5, 4, 4]
+
 console.log(secMaxNumber(list))

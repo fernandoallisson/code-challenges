@@ -11,3 +11,6 @@ const vowaelCount = (string) => {
   return counter;
 }
 
+
+const string = "Eu amo fernando álisson dos santos" // 13 vogais. 
+console.log(vowaelCount(string))
